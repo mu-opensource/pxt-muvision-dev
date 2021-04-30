@@ -1,7 +1,7 @@
 {
-    "name": "muvision",
+    "name": "muvision-dev",
     "version": "1.2.21",
-    "description": "MU Vision Sensor designed for the AI education.",
+    "description": "DEV: MU Vision Sensor designed for the AI education.",
     "license": "MIT",
     "dependencies": {
         "core": "*",
