@@ -1,4 +1,4 @@
-# MU Vision Sensor 3
+# MU Vision Sensor 3 - DEV Repo
 
 The [MU Vision Sensor](http://mai.morpx.com/goods.php?id=162) is a sensor module for micro:bit and other hardware platform that support UART or I2C communication protocols.
 
